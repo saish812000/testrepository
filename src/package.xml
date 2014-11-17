@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>Test_app</members>
+        <name>CustomApplication</name>
+    </types>
+    <types>
+        <members>Branch__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>sample__c</members>
+        <name>CustomTab</name>
+    </types>
+    <types>
+        <members>Sathish_Oct_Dashboard</members>
+        <members>Sathish_Oct_Dashboard/Mobile_Phone_Dashboard</members>
+        <members>Sathish_Oct_Dashboard/Sathish_Oct_Dashboard</members>
+        <name>Dashboard</name>
+    </types>
+    <types>
+        <members>Sathish_template</members>
+        <members>Sathish_template/Appraisal_Alert</members>
+        <name>EmailTemplate</name>
+    </types>
+    <version>31.0</version>
+</Package>

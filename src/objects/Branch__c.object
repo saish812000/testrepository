@@ -66,6 +66,17 @@
         <type>TextArea</type>
     </fields>
     <fields>
+        <fullName>Branch_Remarks__c</fullName>
+        <description>Branch desc</description>
+        <externalId>false</externalId>
+        <inlineHelpText>Please give description about the branch</inlineHelpText>
+        <label>Branch Description</label>
+        <required>true</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>TextArea</type>
+    </fields>
+    <fields>
         <fullName>Branch_ID__c</fullName>
         <description>this is the branch id</description>
         <externalId>false</externalId>
